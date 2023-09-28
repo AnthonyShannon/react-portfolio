@@ -1,0 +1,14 @@
+#navbar {
+    width: 100vw;
+    height: 50px;
+    background: linear-gradient( #343a40, #000000);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 10px;
+}
+
+#name {
+    font-size: x-large;
+}
